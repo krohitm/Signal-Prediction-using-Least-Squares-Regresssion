@@ -1,5 +1,5 @@
 function[Wtest]=filterCoeffTest(input)
-%this function serves the first step.
+%this function is to check if the validation is correct.
 %it finds various filter coefficient sets, for various combinations of
 %Filter Order "M" and regularization parameter "lambda", using the training data 
 M=[4 8 30];
